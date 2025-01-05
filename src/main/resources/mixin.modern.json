@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "verbose": true,
+  "package": "io.wonderfied.modern.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.modern.refmap.json",
+  "mixins": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.7.11"
+}
